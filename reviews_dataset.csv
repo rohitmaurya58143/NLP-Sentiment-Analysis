@@ -1,0 +1,616 @@
+review_id,review_text,sentiment
+1,"Standard packaging, exactly what was described.",Neutral
+2,This product exceeded my expectations in every way.,Positive
+3,This packaging is reasonably fine for the price.,Neutral
+4,"Disliked the delivery, would not buy again.",Negative
+5,"The packaging performs badly, not worth what I paid.",Negative
+6,"Great quality, the quality really stood out.",Positive
+7,"Bad purchase, the quality was really disappointing.",Negative
+8,"Awful delivery, not what I was hoping for.",Negative
+9,"Loved the purchase, would definitely buy again.",Positive
+10,"Great order, the quality really stood out.",Positive
+11,"The service performs badly, not worth what I paid.",Negative
+12,"It's a plain price, does what it says.",Neutral
+13,This item exceeded my expectations in every way.,Positive
+14,"Nothing remarkable about the service, it's okay.",Neutral
+15,Bad item.,Negative
+16,"Really good delivery, happy with it.",Positive
+17,"The order performs badly, not worth what I paid.",Negative
+18,"The quality was fine, an unremarkable experience overall.",Neutral
+19,This is an okay packaging.,Neutral
+20,"The product came within the usual timeframe, as expected.",Neutral
+21,Poor order.,Negative
+22,Poor delivery.,Negative
+23,"The packaging works, no major complaints or praise.",Neutral
+24,"Awful product, not what I was hoping for.",Negative
+25,"The delivery is as expected, nothing more nothing less.",Neutral
+26,"It's a plain product, does what it says.",Neutral
+27,This is an okay item.,Neutral
+28,"The packaging is as expected, nothing more nothing less.",Neutral
+29,"This delivery is a great value for money, very satisfied.",Positive
+30,Fine item.,Neutral
+31,"Impressed with the item, it feels premium and solid.",Positive
+32,"Very happy with the order, highly recommend it.",Positive
+33,"Decent purchase, the quality is acceptable.",Neutral
+34,"Disliked the quality, would not buy again.",Negative
+35,"The packaging works, no major complaints or praise.",Neutral
+36,"Wonderful service, everything about it feels well made.",Positive
+37,Okay quality.,Neutral
+38,"The quality barely works, lots of complaints from me.",Negative
+39,"Excellent order, I'm extremely satisfied.",Positive
+40,The product arrived quickly and works perfectly.,Positive
+41,"The quality is fantastic, worth every rupee.",Positive
+42,"Bad product, the quality was really disappointing.",Negative
+43,"Neutral about the quality, it works as described.",Neutral
+44,"The delivery is above expectation, really happy with it.",Positive
+45,This is a bad product.,Negative
+46,"Superb quality, fast and reliable as promised.",Positive
+47,This purchase did not meet my expectations at all.,Negative
+48,"Poor purchase, stopped working within days.",Negative
+49,"Neutral about the service, it works as described.",Neutral
+50,"The service came within the usual timeframe, as expected.",Neutral
+51,Not a good delivery.,Negative
+52,"Decent quality, the quality is acceptable.",Neutral
+53,"The service feels average, matches the listing.",Neutral
+54,"Excellent service, I'm extremely satisfied.",Positive
+55,The price arrived late and was damaged.,Negative
+56,"It's a plain item, does what it says.",Neutral
+57,"The quality came within the usual timeframe, as expected.",Neutral
+58,"Really good service, happy with it.",Positive
+59,The item arrived quickly and works perfectly.,Positive
+60,"Decent product, the quality is acceptable.",Neutral
+61,"The service is above expectation, really happy with it.",Positive
+62,"Superb service, fast and reliable as promised.",Positive
+63,"The order ruined my day, genuinely frustrated.",Negative
+64,"Superb price, fast and reliable as promised.",Positive
+65,"Poor item, stopped working within days.",Negative
+66,"The item performs adequately, nothing to note.",Neutral
+67,"The quality is about what I expected, fair value.",Neutral
+68,"Nothing remarkable about the delivery, it's okay.",Neutral
+69,"Really good quality, happy with it.",Positive
+70,"Ordinary item, functions without any issues.",Neutral
+71,"Decent product, the quality is acceptable.",Neutral
+72,The order came later than promised and was broken.,Negative
+73,Poor packaging.,Negative
+74,"The purchase is below expectation, quite disappointed.",Negative
+75,Average delivery.,Neutral
+76,"The service performs adequately, nothing to note.",Neutral
+77,"Wonderful product, everything about it feels well made.",Positive
+78,"The item feels average, matches the listing.",Neutral
+79,The delivery arrived late and was damaged.,Negative
+80,"Frustrated with the quality, it feels flimsy and weak.",Negative
+81,"Terrible packaging, I regret this purchase.",Negative
+82,"Just an average price, nothing much.",Neutral
+83,"This service met my expectations, nothing special though.",Neutral
+84,"The purchase works, no major complaints or praise.",Neutral
+85,Fine packaging.,Neutral
+86,"The packaging is fantastic, worth every rupee.",Positive
+87,This packaging did not meet my expectations at all.,Negative
+88,"The delivery is better than I expected, great value.",Positive
+89,"The packaging is better than I expected, great value.",Positive
+90,"The service is about what I expected, fair value.",Neutral
+91,"Decent packaging, the quality is acceptable.",Neutral
+92,"The quality is worse than I expected, poor value.",Negative
+93,"Ordinary product, functions without any issues.",Neutral
+94,"The purchase made my day, genuinely impressed.",Positive
+95,The quality came later than promised and was broken.,Negative
+96,The packaging came later than promised and was broken.,Negative
+97,Fine price.,Neutral
+98,"The item is fine, might buy again.",Neutral
+99,"Good purchase, works well and looks great.",Positive
+100,"The service works flawlessly, no complaints at all.",Positive
+101,This is a good delivery.,Positive
+102,The service came later than promised and was broken.,Negative
+103,"Excellent product, I'm extremely satisfied.",Positive
+104,"Amazing item, exactly what I was hoping for.",Positive
+105,"Very unhappy with the item, cannot recommend it.",Negative
+106,"Very happy with the price, highly recommend it.",Positive
+107,The price arrived late and was damaged.,Negative
+108,"The item feels cheap, not happy at all.",Negative
+109,"The order was fine, an unremarkable experience overall.",Neutral
+110,"This purchase is a great value for money, very satisfied.",Positive
+111,"Really good price, happy with it.",Positive
+112,This is a good packaging.,Positive
+113,The quality arrived quickly and works perfectly.,Positive
+114,"The delivery was fine, an unremarkable experience overall.",Neutral
+115,"Really bad quality, unhappy with it.",Negative
+116,"This item is a waste of money, very unsatisfied.",Negative
+117,Average quality.,Neutral
+118,This is a bad purchase.,Negative
+119,This is a good quality.,Positive
+120,"Okay product, neither good nor bad.",Neutral
+121,"The price made my day, genuinely impressed.",Positive
+122,"Very unhappy with the purchase, cannot recommend it.",Negative
+123,The item came earlier than expected and in perfect condition.,Positive
+124,"This product met my expectations, nothing special though.",Neutral
+125,"Neutral about the packaging, it works as described.",Neutral
+126,"Really good purchase, happy with it.",Positive
+127,"The order is top notch, couldn't be happier.",Positive
+128,"The order is worse than I expected, poor value.",Negative
+129,"Really good item, happy with it.",Positive
+130,This delivery did not meet my expectations at all.,Negative
+131,"The delivery is above expectation, really happy with it.",Positive
+132,Average order.,Neutral
+133,"Loved the price, would definitely buy again.",Positive
+134,"Really good packaging, happy with it.",Positive
+135,"The item ruined my day, genuinely frustrated.",Negative
+136,"It's a plain order, does what it says.",Neutral
+137,"The service arrived on time, as scheduled.",Neutral
+138,"The product arrived on time, as scheduled.",Neutral
+139,"The delivery is worse than I expected, poor value.",Negative
+140,"Disappointing service, everything about it feels poorly made.",Negative
+141,"The delivery is below expectation, quite disappointed.",Negative
+142,"Terrible delivery, I regret this purchase.",Negative
+143,"Disappointing price, everything about it feels poorly made.",Negative
+144,"The delivery barely works, lots of complaints from me.",Negative
+145,"Poor product, stopped working within days.",Negative
+146,"Standard quality, exactly what was described.",Neutral
+147,"The delivery works flawlessly, no complaints at all.",Positive
+148,"The packaging feels average, matches the listing.",Neutral
+149,"Amazing delivery, exactly what I was hoping for.",Positive
+150,"It's a plain delivery, does what it says.",Neutral
+151,"The quality is below expectation, quite disappointed.",Negative
+152,"Bad purchase, the quality was really disappointing.",Negative
+153,"Bad price, the quality was really disappointing.",Negative
+154,"The item is above expectation, really happy with it.",Positive
+155,Good service.,Positive
+156,"Awful packaging, not what I was hoping for.",Negative
+157,"Unreliable price, kept failing after first use.",Negative
+158,This price did not meet my expectations at all.,Negative
+159,The quality arrived late and was damaged.,Negative
+160,"Bad purchase, the quality was really disappointing.",Negative
+161,"Good price, works well and looks great.",Positive
+162,"Standard product, exactly what was described.",Neutral
+163,This quality exceeded my expectations in every way.,Positive
+164,"The item ruined my day, genuinely frustrated.",Negative
+165,Not a good service.,Negative
+166,"The delivery came within the usual timeframe, as expected.",Neutral
+167,"Standard order, exactly what was described.",Neutral
+168,"The item is top notch, couldn't be happier.",Positive
+169,"Superb packaging, fast and reliable as promised.",Positive
+170,"The purchase is as expected, nothing more nothing less.",Neutral
+171,"The quality arrived on time, as scheduled.",Neutral
+172,"This purchase is a waste of money, very unsatisfied.",Negative
+173,This is a good price.,Positive
+174,"The product is top notch, couldn't be happier.",Positive
+175,"The order works flawlessly, no complaints at all.",Positive
+176,Bad delivery.,Negative
+177,The delivery arrived late and was damaged.,Negative
+178,Poor product.,Negative
+179,Fine service.,Neutral
+180,Good price.,Positive
+181,Fine purchase.,Neutral
+182,"Loved the service, would definitely buy again.",Positive
+183,"Very happy with the quality, highly recommend it.",Positive
+184,This is a bad order.,Negative
+185,"Really bad order, unhappy with it.",Negative
+186,This is an okay service.,Neutral
+187,The packaging came earlier than expected and in perfect condition.,Positive
+188,"Ordinary service, functions without any issues.",Neutral
+189,"Disliked the packaging, would not buy again.",Negative
+190,Not a good order.,Negative
+191,"Very unhappy with the product, cannot recommend it.",Negative
+192,The order arrived late and was damaged.,Negative
+193,The item is reasonably priced for what it is.,Neutral
+194,"Unreliable order, kept failing after first use.",Negative
+195,This is an okay purchase.,Neutral
+196,Good delivery.,Positive
+197,This is an okay quality.,Neutral
+198,This price is reasonably fine for the price.,Neutral
+199,"The item performs adequately, nothing to note.",Neutral
+200,"Disappointing service, everything about it feels poorly made.",Negative
+201,"The item ruined my day, genuinely frustrated.",Negative
+202,Okay service.,Neutral
+203,"Okay order, neither good nor bad.",Neutral
+204,"The order is fine, might buy again.",Neutral
+205,This is an okay delivery.,Neutral
+206,"The item made my day, genuinely impressed.",Positive
+207,Nice quality.,Positive
+208,The price is overpriced for what you get.,Negative
+209,Nice order.,Positive
+210,"Average quality, does the job.",Neutral
+211,"Really bad item, unhappy with it.",Negative
+212,"Very happy with the order, highly recommend it.",Positive
+213,"Great item, the quality really stood out.",Positive
+214,"The delivery barely works, lots of complaints from me.",Negative
+215,Great product.,Positive
+216,"Okay purchase, neither good nor bad.",Neutral
+217,"Impressed with the service, it feels premium and solid.",Positive
+218,"Excellent packaging, I'm extremely satisfied.",Positive
+219,"Impressed with the price, it feels premium and solid.",Positive
+220,"The purchase is better than I expected, great value.",Positive
+221,"Ordinary item, functions without any issues.",Neutral
+222,"Bad product, the quality was really disappointing.",Negative
+223,"Terrible service, I regret this purchase.",Negative
+224,"Frustrated with the item, it feels flimsy and weak.",Negative
+225,This is a bad quality.,Negative
+226,"The delivery performs adequately, nothing to note.",Neutral
+227,"Loved the item, would definitely buy again.",Positive
+228,Nice service.,Positive
+229,"Neutral about the delivery, it works as described.",Neutral
+230,The packaging arrived quickly and works perfectly.,Positive
+231,This is a bad price.,Negative
+232,"Very happy with the delivery, highly recommend it.",Positive
+233,The order is reasonably priced for what it is.,Neutral
+234,"Ordinary service, functions without any issues.",Neutral
+235,"The service is fantastic, worth every rupee.",Positive
+236,"The purchase performs beautifully, exceeded what I paid for.",Positive
+237,Poor purchase.,Negative
+238,"The item feels cheap, not happy at all.",Negative
+239,"The order came within the usual timeframe, as expected.",Neutral
+240,Average item.,Neutral
+241,Poor quality.,Negative
+242,The price is reasonably priced for what it is.,Neutral
+243,"The service is below expectation, quite disappointed.",Negative
+244,"Disliked the item, would not buy again.",Negative
+245,"Disliked the item, would not buy again.",Negative
+246,"Very happy with the purchase, highly recommend it.",Positive
+247,Okay item.,Neutral
+248,"The packaging is fantastic, worth every rupee.",Positive
+249,This item did not meet my expectations at all.,Negative
+250,"Good delivery, works well and looks great.",Positive
+251,"The service is as expected, nothing more nothing less.",Neutral
+252,The quality is overpriced for what you get.,Negative
+253,"Poor delivery, stopped working within days.",Negative
+254,"The service is better than I expected, great value.",Positive
+255,Okay price.,Neutral
+256,"Wonderful delivery, everything about it feels well made.",Positive
+257,Bad quality.,Negative
+258,"Good product, works well and looks great.",Positive
+259,"Disappointing purchase, everything about it feels poorly made.",Negative
+260,"The delivery performs badly, not worth what I paid.",Negative
+261,Okay purchase.,Neutral
+262,"Awful item, not what I was hoping for.",Negative
+263,"The product is above expectation, really happy with it.",Positive
+264,The service came later than promised and was broken.,Negative
+265,Fine order.,Neutral
+266,"The price works flawlessly, no complaints at all.",Positive
+267,Great packaging.,Positive
+268,"Superb quality, fast and reliable as promised.",Positive
+269,"Loved the purchase, would definitely buy again.",Positive
+270,"This order is a great value for money, very satisfied.",Positive
+271,Nice packaging.,Positive
+272,"The order is top notch, couldn't be happier.",Positive
+273,"Amazing product, exactly what I was hoping for.",Positive
+274,"Excellent delivery, I'm extremely satisfied.",Positive
+275,"Average purchase, does the job.",Neutral
+276,"Nothing remarkable about the quality, it's okay.",Neutral
+277,"The price made my day, genuinely impressed.",Positive
+278,"Very unhappy with the price, cannot recommend it.",Negative
+279,"The purchase came within the usual timeframe, as expected.",Neutral
+280,"The item is about what I expected, fair value.",Neutral
+281,"Really bad service, unhappy with it.",Negative
+282,"Impressed with the purchase, it feels premium and solid.",Positive
+283,"Awful item, not what I was hoping for.",Negative
+284,"The order is fantastic, worth every rupee.",Positive
+285,The service came earlier than expected and in perfect condition.,Positive
+286,"The service came within the usual timeframe, as expected.",Neutral
+287,"The order made my day, genuinely impressed.",Positive
+288,"The product is better than I expected, great value.",Positive
+289,"The delivery is better than I expected, great value.",Positive
+290,"Disappointing purchase, everything about it feels poorly made.",Negative
+291,The packaging arrived quickly and works perfectly.,Positive
+292,This quality is reasonably fine for the price.,Neutral
+293,"Disliked the quality, would not buy again.",Negative
+294,The item arrived quickly and works perfectly.,Positive
+295,"The price was fine, an unremarkable experience overall.",Neutral
+296,Average packaging.,Neutral
+297,"This order is a great value for money, very satisfied.",Positive
+298,"Excellent quality, I'm extremely satisfied.",Positive
+299,This is a good order.,Positive
+300,The price is reasonably priced for what it is.,Neutral
+301,Not a good packaging.,Negative
+302,"Unreliable service, kept failing after first use.",Negative
+303,Average product.,Neutral
+304,"Wonderful packaging, everything about it feels well made.",Positive
+305,"This item is a waste of money, very unsatisfied.",Negative
+306,"Nothing remarkable about the packaging, it's okay.",Neutral
+307,This purchase is reasonably fine for the price.,Neutral
+308,"The purchase is fine, might buy again.",Neutral
+309,"The order ruined my day, genuinely frustrated.",Negative
+310,"Wonderful delivery, everything about it feels well made.",Positive
+311,"Okay packaging, neither good nor bad.",Neutral
+312,Average price.,Neutral
+313,"Good service, works well and looks great.",Positive
+314,"The product performs beautifully, exceeded what I paid for.",Positive
+315,Great service.,Positive
+316,"Frustrated with the item, it feels flimsy and weak.",Negative
+317,"The purchase is above expectation, really happy with it.",Positive
+318,This price is reasonably fine for the price.,Neutral
+319,"The order works flawlessly, no complaints at all.",Positive
+320,"Terrible delivery, I regret this purchase.",Negative
+321,"Impressed with the product, it feels premium and solid.",Positive
+322,"Wonderful item, everything about it feels well made.",Positive
+323,"Great delivery, the quality really stood out.",Positive
+324,Bad order.,Negative
+325,"Wonderful item, everything about it feels well made.",Positive
+326,The delivery is reasonably priced for what it is.,Neutral
+327,"The order feels cheap, not happy at all.",Negative
+328,"The item performs badly, not worth what I paid.",Negative
+329,The product is reasonably priced for what it is.,Neutral
+330,"The quality works, no major complaints or praise.",Neutral
+331,"The quality is top notch, couldn't be happier.",Positive
+332,"Average order, does the job.",Neutral
+333,"The purchase works flawlessly, no complaints at all.",Positive
+334,"Frustrated with the delivery, it feels flimsy and weak.",Negative
+335,"Average service, does the job.",Neutral
+336,"The purchase is below expectation, quite disappointed.",Negative
+337,"Great packaging, the quality really stood out.",Positive
+338,Not a good item.,Negative
+339,"Impressed with the purchase, it feels premium and solid.",Positive
+340,"This purchase is a great value for money, very satisfied.",Positive
+341,This is an okay product.,Neutral
+342,"The service works, no major complaints or praise.",Neutral
+343,"The item is worse than I expected, poor value.",Negative
+344,"Just an average service, nothing much.",Neutral
+345,Poor service.,Negative
+346,Average service.,Neutral
+347,The purchase is overpriced for what you get.,Negative
+348,"Poor packaging, stopped working within days.",Negative
+349,"The delivery feels cheap, not happy at all.",Negative
+350,Average purchase.,Neutral
+351,Great delivery.,Positive
+352,Good order.,Positive
+353,"The purchase performs badly, not worth what I paid.",Negative
+354,"Average price, does the job.",Neutral
+355,"Really bad purchase, unhappy with it.",Negative
+356,This is a good product.,Positive
+357,"The product arrived on time, as scheduled.",Neutral
+358,"Disliked the price, would not buy again.",Negative
+359,"Impressed with the purchase, it feels premium and solid.",Positive
+360,"Wonderful item, everything about it feels well made.",Positive
+361,"Loved the packaging, would definitely buy again.",Positive
+362,This item exceeded my expectations in every way.,Positive
+363,"Very unhappy with the product, cannot recommend it.",Negative
+364,"The order barely works, lots of complaints from me.",Negative
+365,"The quality is fine, might buy again.",Neutral
+366,"This item met my expectations, nothing special though.",Neutral
+367,"Unreliable product, kept failing after first use.",Negative
+368,"The service performs adequately, nothing to note.",Neutral
+369,"Standard quality, exactly what was described.",Neutral
+370,The quality is reasonably priced for what it is.,Neutral
+371,Nice product.,Positive
+372,"Awful product, not what I was hoping for.",Negative
+373,"Standard order, exactly what was described.",Neutral
+374,The quality came earlier than expected and in perfect condition.,Positive
+375,"Loved the quality, would definitely buy again.",Positive
+376,"Great quality, the quality really stood out.",Positive
+377,"The order feels cheap, not happy at all.",Negative
+378,"Just an average purchase, nothing much.",Neutral
+379,"Really good order, happy with it.",Positive
+380,Okay delivery.,Neutral
+381,"The delivery arrived on time, as scheduled.",Neutral
+382,Not a good purchase.,Negative
+383,"The product performs beautifully, exceeded what I paid for.",Positive
+384,"Nothing remarkable about the quality, it's okay.",Neutral
+385,"This service is a great value for money, very satisfied.",Positive
+386,"Poor product, stopped working within days.",Negative
+387,"The quality is top notch, couldn't be happier.",Positive
+388,"The purchase barely works, lots of complaints from me.",Negative
+389,"The purchase works flawlessly, no complaints at all.",Positive
+390,"The service is below expectation, quite disappointed.",Negative
+391,Fine product.,Neutral
+392,This delivery exceeded my expectations in every way.,Positive
+393,This item did not meet my expectations at all.,Negative
+394,The purchase arrived late and was damaged.,Negative
+395,Great order.,Positive
+396,"The service ruined my day, genuinely frustrated.",Negative
+397,"This product is a waste of money, very unsatisfied.",Negative
+398,"The price is worse than I expected, poor value.",Negative
+399,"Neutral about the packaging, it works as described.",Neutral
+400,This price is reasonably fine for the price.,Neutral
+401,"Very unhappy with the purchase, cannot recommend it.",Negative
+402,"The price performs beautifully, exceeded what I paid for.",Positive
+403,"Loved the item, would definitely buy again.",Positive
+404,The price came earlier than expected and in perfect condition.,Positive
+405,"The delivery is below expectation, quite disappointed.",Negative
+406,"The order performs beautifully, exceeded what I paid for.",Positive
+407,"The purchase performs adequately, nothing to note.",Neutral
+408,"Standard delivery, exactly what was described.",Neutral
+409,The price is overpriced for what you get.,Negative
+410,Nice delivery.,Positive
+411,"Unreliable service, kept failing after first use.",Negative
+412,"The purchase is about what I expected, fair value.",Neutral
+413,"Frustrated with the product, it feels flimsy and weak.",Negative
+414,"The quality works, no major complaints or praise.",Neutral
+415,"The service ruined my day, genuinely frustrated.",Negative
+416,"Just an average delivery, nothing much.",Neutral
+417,Nice price.,Positive
+418,"The item feels cheap, not happy at all.",Negative
+419,"Standard service, exactly what was described.",Neutral
+420,"The service works flawlessly, no complaints at all.",Positive
+421,The service is overpriced for what you get.,Negative
+422,Great quality.,Positive
+423,"The packaging is fine, might buy again.",Neutral
+424,"The quality is worse than I expected, poor value.",Negative
+425,"Really bad packaging, unhappy with it.",Negative
+426,"The service is as expected, nothing more nothing less.",Neutral
+427,"Terrible item, I regret this purchase.",Negative
+428,The order is overpriced for what you get.,Negative
+429,"Amazing delivery, exactly what I was hoping for.",Positive
+430,"The price barely works, lots of complaints from me.",Negative
+431,"Decent delivery, the quality is acceptable.",Neutral
+432,"Awful delivery, not what I was hoping for.",Negative
+433,Okay packaging.,Neutral
+434,This delivery did not meet my expectations at all.,Negative
+435,"This quality met my expectations, nothing special though.",Neutral
+436,"Bad product, the quality was really disappointing.",Negative
+437,This is a good item.,Positive
+438,"Terrible purchase, I regret this purchase.",Negative
+439,"Really bad delivery, unhappy with it.",Negative
+440,"Really bad price, unhappy with it.",Negative
+441,"Frustrated with the quality, it feels flimsy and weak.",Negative
+442,"Poor product, stopped working within days.",Negative
+443,"Good delivery, works well and looks great.",Positive
+444,"Ordinary product, functions without any issues.",Neutral
+445,"This packaging is a waste of money, very unsatisfied.",Negative
+446,"Ordinary quality, functions without any issues.",Neutral
+447,"The packaging is fantastic, worth every rupee.",Positive
+448,"The item works, no major complaints or praise.",Neutral
+449,"Disappointing purchase, everything about it feels poorly made.",Negative
+450,"Okay purchase, neither good nor bad.",Neutral
+451,"Just an average quality, nothing much.",Neutral
+452,This is an okay order.,Neutral
+453,"The packaging is about what I expected, fair value.",Neutral
+454,"The packaging arrived on time, as scheduled.",Neutral
+455,"Amazing service, exactly what I was hoping for.",Positive
+456,This is an okay price.,Neutral
+457,"The service is as expected, nothing more nothing less.",Neutral
+458,Fine quality.,Neutral
+459,"The order arrived on time, as scheduled.",Neutral
+460,"The packaging performs badly, not worth what I paid.",Negative
+461,The service arrived quickly and works perfectly.,Positive
+462,"Great purchase, the quality really stood out.",Positive
+463,"The delivery is fine, might buy again.",Neutral
+464,"Disliked the quality, would not buy again.",Negative
+465,The price arrived late and was damaged.,Negative
+466,"It's a plain delivery, does what it says.",Neutral
+467,"Okay order, neither good nor bad.",Neutral
+468,"This item is a waste of money, very unsatisfied.",Negative
+469,Bad service.,Negative
+470,This delivery exceeded my expectations in every way.,Positive
+471,"The delivery performs badly, not worth what I paid.",Negative
+472,"Amazing item, exactly what I was hoping for.",Positive
+473,"The order made my day, genuinely impressed.",Positive
+474,This is a good purchase.,Positive
+475,"Decent purchase, the quality is acceptable.",Neutral
+476,Poor price.,Negative
+477,Nice purchase.,Positive
+478,"The order is fine, might buy again.",Neutral
+479,The delivery is reasonably priced for what it is.,Neutral
+480,Good product.,Positive
+481,"Disappointing product, everything about it feels poorly made.",Negative
+482,Bad price.,Negative
+483,"Terrible item, I regret this purchase.",Negative
+484,"Just an average product, nothing much.",Neutral
+485,"This item is a great value for money, very satisfied.",Positive
+486,This is a good service.,Positive
+487,"The delivery is worse than I expected, poor value.",Negative
+488,"The quality is top notch, couldn't be happier.",Positive
+489,Good packaging.,Positive
+490,"This price is a waste of money, very unsatisfied.",Negative
+491,"The price is fantastic, worth every rupee.",Positive
+492,"Average purchase, does the job.",Neutral
+493,"Unreliable quality, kept failing after first use.",Negative
+494,"Very happy with the service, highly recommend it.",Positive
+495,The service came earlier than expected and in perfect condition.,Positive
+496,"The product is better than I expected, great value.",Positive
+497,"The purchase ruined my day, genuinely frustrated.",Negative
+498,This product exceeded my expectations in every way.,Positive
+499,Not a good quality.,Negative
+500,"Great price, the quality really stood out.",Positive
+501,The product came earlier than expected and in perfect condition.,Positive
+502,Fine delivery.,Neutral
+503,This purchase exceeded my expectations in every way.,Positive
+504,"Neutral about the delivery, it works as described.",Neutral
+505,This is a bad service.,Negative
+506,"This product met my expectations, nothing special though.",Neutral
+507,Great item.,Positive
+508,Not a good price.,Negative
+509,The item arrived quickly and works perfectly.,Positive
+510,"This service met my expectations, nothing special though.",Neutral
+511,"Impressed with the service, it feels premium and solid.",Positive
+512,"The packaging arrived on time, as scheduled.",Neutral
+513,"Amazing item, exactly what I was hoping for.",Positive
+514,"Good purchase, works well and looks great.",Positive
+515,Good item.,Positive
+516,"Superb delivery, fast and reliable as promised.",Positive
+517,"Bad packaging, the quality was really disappointing.",Negative
+518,"The quality feels average, matches the listing.",Neutral
+519,The service came later than promised and was broken.,Negative
+520,Bad product.,Negative
+521,"Okay item, neither good nor bad.",Neutral
+522,"This product met my expectations, nothing special though.",Neutral
+523,"It's a plain delivery, does what it says.",Neutral
+524,The delivery is overpriced for what you get.,Negative
+525,"This packaging met my expectations, nothing special though.",Neutral
+526,"Neutral about the product, it works as described.",Neutral
+527,"The purchase feels cheap, not happy at all.",Negative
+528,"Just an average item, nothing much.",Neutral
+529,"Terrible product, I regret this purchase.",Negative
+530,"The price was fine, an unremarkable experience overall.",Neutral
+531,"The purchase performs beautifully, exceeded what I paid for.",Positive
+532,"Nothing remarkable about the quality, it's okay.",Neutral
+533,"Superb delivery, fast and reliable as promised.",Positive
+534,Poor item.,Negative
+535,"Ordinary order, functions without any issues.",Neutral
+536,"Excellent packaging, I'm extremely satisfied.",Positive
+537,"This purchase is a great value for money, very satisfied.",Positive
+538,"The delivery was fine, an unremarkable experience overall.",Neutral
+539,This price did not meet my expectations at all.,Negative
+540,"The delivery works, no major complaints or praise.",Neutral
+541,"Okay item, neither good nor bad.",Neutral
+542,This is a bad packaging.,Negative
+543,"Excellent order, I'm extremely satisfied.",Positive
+544,Great purchase.,Positive
+545,"The service came within the usual timeframe, as expected.",Neutral
+546,"Frustrated with the packaging, it feels flimsy and weak.",Negative
+547,"Just an average packaging, nothing much.",Neutral
+548,Nice item.,Positive
+549,"Very unhappy with the item, cannot recommend it.",Negative
+550,"The purchase feels average, matches the listing.",Neutral
+551,"The packaging is about what I expected, fair value.",Neutral
+552,"Disappointing order, everything about it feels poorly made.",Negative
+553,"The delivery is fine, might buy again.",Neutral
+554,"The item is above expectation, really happy with it.",Positive
+555,Good purchase.,Positive
+556,"Neutral about the delivery, it works as described.",Neutral
+557,"Good quality, works well and looks great.",Positive
+558,"The purchase is about what I expected, fair value.",Neutral
+559,"The service feels average, matches the listing.",Neutral
+560,"Awful quality, not what I was hoping for.",Negative
+561,"The delivery is fantastic, worth every rupee.",Positive
+562,"The packaging feels average, matches the listing.",Neutral
+563,"The quality was fine, an unremarkable experience overall.",Neutral
+564,This is a bad delivery.,Negative
+565,"Average order, does the job.",Neutral
+566,"Decent quality, the quality is acceptable.",Neutral
+567,"The item feels average, matches the listing.",Neutral
+568,"Very happy with the item, highly recommend it.",Positive
+569,The order is overpriced for what you get.,Negative
+570,"The order made my day, genuinely impressed.",Positive
+571,"The service is about what I expected, fair value.",Neutral
+572,"The price is worse than I expected, poor value.",Negative
+573,"The purchase made my day, genuinely impressed.",Positive
+574,"The packaging performs beautifully, exceeded what I paid for.",Positive
+575,"Superb item, fast and reliable as promised.",Positive
+576,This is a bad item.,Negative
+577,"The price is as expected, nothing more nothing less.",Neutral
+578,"Average product, does the job.",Neutral
+579,"Frustrated with the purchase, it feels flimsy and weak.",Negative
+580,"Unreliable product, kept failing after first use.",Negative
+581,"This price is a waste of money, very unsatisfied.",Negative
+582,"The packaging is better than I expected, great value.",Positive
+583,This price is reasonably fine for the price.,Neutral
+584,The delivery came later than promised and was broken.,Negative
+585,"Unreliable quality, kept failing after first use.",Negative
+586,Great price.,Positive
+587,Bad purchase.,Negative
+588,The delivery came later than promised and was broken.,Negative
+589,"The service barely works, lots of complaints from me.",Negative
+590,"The product feels cheap, not happy at all.",Negative
+591,"The packaging performs adequately, nothing to note.",Neutral
+592,Good quality.,Positive
+593,"The quality is below expectation, quite disappointed.",Negative
+594,"The order performs adequately, nothing to note.",Neutral
+595,"Really bad product, unhappy with it.",Negative
+596,"Nothing remarkable about the order, it's okay.",Neutral
+597,"Really good product, happy with it.",Positive
+598,This delivery is reasonably fine for the price.,Neutral
+599,"The delivery is as expected, nothing more nothing less.",Neutral
+600,Okay order.,Neutral
+601,Not a good product.,Negative
+602,"Just an average order, nothing much.",Neutral
+603,"The packaging performs beautifully, exceeded what I paid for.",Positive
+604,"It's a plain product, does what it says.",Neutral
+605,The order came earlier than expected and in perfect condition.,Positive
+606,"The product barely works, lots of complaints from me.",Negative
+607,Okay product.,Neutral
+608,"Amazing delivery, exactly what I was hoping for.",Positive
+609,"The quality was fine, an unremarkable experience overall.",Neutral
+610,Bad packaging.,Negative
+611,"Poor delivery, stopped working within days.",Negative
+612,"Very unhappy with the delivery, cannot recommend it.",Negative
+613,"Nothing remarkable about the purchase, it's okay.",Neutral
+614,"The item is top notch, couldn't be happier.",Positive
+615,"The order is above expectation, really happy with it.",Positive
